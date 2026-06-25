@@ -1,1 +1,11 @@
-# somethigB
+# somethigB<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>マイホームページ</title>
+</head>
+<body>
+    <h1>こんにちは！</h1>
+    <p>このサイトはGitHubのブラウザ上だけで作成されました。</p>
+</body>
+</html>
